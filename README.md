@@ -1,35 +1,26 @@
-<div align="center">
+  **// SYSTEM ONLINE //**
+> Loading User Profile: [Your Name/Alias]...
+> Status: `Operational` | Mood: `[Caffeinated/Chilling/Coding]`
+> Location: `Sector 7G || Earth 🌍`
 
-  # 🔥 YOUR AWESOME USERNAME 🔥
+  **[ CORE DIRECTIVES ]**
+> ➤ `[Gaming Genre 1]` Enthusiast 🎮
+> ➤ `[Hobby - e.g., Code Wizard 💻 / Pixel Artist 🎨]`
+> ➤ `[Another Interest - e.g., Sci-Fi Junkie 🚀 / Music Producer 🎵]`
+> ➤ `Seeker of Knowledge & Dank Memes ✨`
 
-  ---
+  **[ DATA STREAMS ]**
+> ```diff
+> + Currently Playing: [Game Name] / Watching: [Show/Movie]
+> - Previously Conquered: [Old Game/Project]
+> ```
+> `>>` Listening To: `[Current Music Artist/Genre]` 🎧
 
-  <img src="https://placehold.co/600x200/1a1a1a/ffffff?text=Your+Cool+Banner+Here" alt="Banner Image - Replace with your own!" style="border-radius: 15px;"/>
+  **[ ACTIVE CONNECTIONS ]**
+> │ 🔗 `GitHub:` [Link]
+> │ 🔗 `Twitch:` [Link]
+> │ 🔗 `Website/Portfolio:` [Link]
+> │ 💬 `DMs:` [Open / Ask First / Closed]
 
-  ---
-
-  ### ✨ A Little Bit About Me ✨
-
-  > Just a [Your Vibe - e.g., digital wanderer, code conjurer, meme lord] navigating the chaotic beauty of the internet.
-  > Always down for [Activity 1 - e.g., late-night gaming sessions, deep talks about space, sharing cat pics].
-  > Currently obsessed with [Current Obsession - e.g., learning Japanese, mastering sourdough, that one obscure indie game].
-
-  ---
-
-  ### 🚀 My Interests & Hobbies 🚀
-
-  * 🎮 **Gaming:** [Favorite Games/Genres - e.g., RPGs, Valorant, Stardew Valley]
-  * 💻 **Tech:** [Tech Interests - e.g., Linux, Python scripting, building PCs]
-  * 🎬 **Movies/Shows:** [Favorites - e.g., Sci-Fi, Studio Ghibli, The Office]
-  * 🎵 **Music:** [Favorite Artists/Genres - e.g., Lofi beats, 80s Synthwave, Rock]
-  * 🎨 **Other:** [Any other hobbies - e.g., Drawing, Reading, Cooking]
-
-  ---
-
-  ### 💡 Current Status / Mood 💡
-
-  ```txt
-  Vibe: [Your Current Vibe - e.g., Caffeinated & Creative ☕]
-  Listening To: [Current Song/Artist] 🎧
-  Working On: [Current Project/Goal] 🛠️
-🌐 Connect With Me (Optional) 🌐Feel free to connect elsewhere! (Or just DM me here!)[Platform 1 - e.g., GitHub]: [Your Link][Platform 2 - e.g., Twitter/X]: [Your Link][Platform 3 - e.g., Website/Portfolio]: [Your Link]
+  **// TRANSMISSION END //**
+> _May your connection be stable and your pings low._
