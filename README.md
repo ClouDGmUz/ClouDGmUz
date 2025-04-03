@@ -1,10 +1,10 @@
-**[Cloudy]** ✨ │ `[IDK]`
+**Cloudy** ✨ │ `IDK`
 
 ———————————————
 
-*   `[Gaming]` ┊ `[Coding]` ┊ `[Cooking]`
-*   Currently exploring `[HASTE - NEW GAME OUT CURRENTLY]` 🌱
-*   Vibes: `[Cozy ☕]`
+*   `Gaming` ┊ `Coding` ┊ `Cooking`
+*   Currently exploring `HASTE - NEW GAME OUT CURRENTLY` 🌱
+*   Vibes: `Cozy ☕`
 
 ———————————————
 
@@ -13,7 +13,7 @@
 ———————————————
 
 Connect:
-➤ `[Telegram]:` [https://t.me/cloudgmuz]
-➤ `[Discord]:` [cloudgmuz]
+➤ `Telegram:` cloudgmuz
+➤ `Discord:` cloudgmuz
 
 🌙 Always learning, always growing.
