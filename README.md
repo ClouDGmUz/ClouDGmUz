@@ -1,19 +1,19 @@
-**[Your Name/Alias]** ✨ │ `[Pronouns]`
+**[Cloudy]** ✨ │ `[IDK]`
 
 ———————————————
 
-*   `[Interest 1]` ┊ `[Interest 2]` ┊ `[Interest 3]`
-*   Currently exploring `[Something New - e.g., a book, a game, a skill]` 🌱
-*   Vibes: `[Describe your current mood/vibe - e.g., Cozy ☕ / Focused 💡 / Adventurous 🌲]`
+*   `[Gaming]` ┊ `[Coding]` ┊ `[Cooking]`
+*   Currently exploring `[HASTE - NEW GAME OUT CURRENTLY]` 🌱
+*   Vibes: `[Cozy ☕]`
 
 ———————————————
 
-> _"[A short favorite quote or personal motto]"_
+> _"[I don't know anyhting]"_
 
 ———————————————
 
 Connect:
-➤ `[Platform 1]:` [Link/Username]
-➤ `[Platform 2]:` [Link/Username]
+➤ `[Telegram]:` [https://t.me/cloudgmuz]
+➤ `[Discord]:` [cloudgmuz]
 
 🌙 Always learning, always growing.
