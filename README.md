@@ -1,24 +1,19 @@
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-Hey there! I'm **[Your Name/Alias]**! ✨ (`[Pronouns]`)
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+**[Your Name/Alias]** ✨ │ `[Pronouns]`
 
-💥 **ALL ABOUT ME!** 💥
-> 🚀 Just a `[Your Role - e.g., student, creator, professional goofball]` navigating the cosmos!
-> 🧠 My brain runs on: `[Coffee/Tea]`, `[Music Genre]`, and `[A funny obsession]`!
-> ❤️ Passionate about: `[Hobby 1]`, `[Hobby 2]`, `[Hobby 3]`!
-> 😂 Fluent in sarcasm & memes.
+———————————————
 
-🎶 **CURRENT VIBE CHECK** 🎶
-> Listening to: `[Song/Artist]` on repeat 🎧
-> Working on: `[Project/Goal]` 💡
-> Mood: `[Energetic Emoji - e.g., 🔥 / 🎉 / 🥳 / 🤪]`
+*   `[Interest 1]` ┊ `[Interest 2]` ┊ `[Interest 3]`
+*   Currently exploring `[Something New - e.g., a book, a game, a skill]` 🌱
+*   Vibes: `[Describe your current mood/vibe - e.g., Cozy ☕ / Focused 💡 / Adventurous 🌲]`
 
-🔗 **LET'S CONNECT!** 🔗
-> Find my chaotic energy here:
-> ➤ `[Social Media 1]:` [Link]
-> ➤ `[Social Media 2]:` [Link]
-> ➤ `[Other Platform]:` [Link]
+———————————————
 
-💌 **DM Status:** Feel free to say hi! 👋 (Unless you're a pineapple on pizza defender... jk... maybe 😉)
+> _"[A short favorite quote or personal motto]"_
 
-*Remember to stay hydrated and awesome!* 💧
+———————————————
+
+Connect:
+➤ `[Platform 1]:` [Link/Username]
+➤ `[Platform 2]:` [Link/Username]
+
+🌙 Always learning, always growing.
