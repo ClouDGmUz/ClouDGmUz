@@ -3,7 +3,7 @@
 ———————————————
 
 *   `Gaming` ┊ `Coding` ┊ `Cooking`
-*   Currently exploring `HASTE - NEW GAME OUT CURRENTLY` 🌱
+*   Currently exploring `Freelancering` 🌱
 *   Vibes: `Cozy ☕`
 
 ———————————————
