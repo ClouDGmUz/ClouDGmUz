@@ -74,22 +74,7 @@ const me = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ClouDGmUz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClouDGmUz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClouDGmUz&theme=tokyonight&hide_border=true" alt="Streak stats"/>
-</div>
-
-<!-- Contribution graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClouDGmUz&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
-</div>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ClouDGmUz&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 </div>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
@@ -117,10 +102,6 @@ const me = {
 <!-- BLOG-POST-LIST:START -->
 <!-- Auto-updated via GitHub Actions: gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:END -->
-
-### 🐍 Contribution Snake
-<!-- Set up via: Platane/snk GitHub Action -->
-<img src="https://raw.githubusercontent.com/ClouDGmUz/ClouDGmUz/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </details>
 
