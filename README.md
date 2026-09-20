@@ -31,10 +31,10 @@ const me = {
 };
 ```
 
-- 🔭 Currently working on **[Project Name](https://github.com/ClouDGmUz/online-school-dars-project)**
+- 🔭 Currently working on **CRM SYSTEM**
 - 🌱 Learning **Rust & distributed systems**
 - 💬 Ask me about **JavaScript, Python, DevOps**
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **contact@abdulazizwb.uz**
 - ⚡ Fun fact: **I can exit vim** `:wq`
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
