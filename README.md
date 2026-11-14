@@ -1,113 +1,104 @@
-<div align="center">
-
-<!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20AbdulazizWB%20👋&fontSize=42&fontColor=fff&animation=fadeIn" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://github.com/ClouDGmUz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+learning+something+new;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<!-- Profile views + badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ClouDGmUz&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/ClouDGmUz?style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ClouDGmUz?style=for-the-badge&color=yellow" alt="Stars"/>
+<!-- ───────────────────────── HEADER ───────────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=220&section=header&text=Abdulaziz%20WB&fontSize=58&fontColor=c0caf5&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Fergana%2C%20Uzbekistan&descSize=18&descAlignY=58&descColor=a9b1d6&animation=fadeIn" width="100%" alt="Abdulaziz WB"/>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/ClouDGmUz">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Full-stack+developer;Building+scalable+web+apps;Currently+shipping+a+CRM+system;Learning+Rust+%26+distributed+systems" alt="Typing intro"/>
+  </a>
+</p>
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-## 🧑‍💻 About Me
+<p align="center">
+  <a href="https://abdulazizwb.uz"><img src="https://img.shields.io/badge/Portfolio-abdulazizwb.uz-7aa2f7?style=flat-square&labelColor=1a1b27&logo=vercel&logoColor=c0caf5"/></a>
+  <a href="https://linkedin.com/in/abdulazizwb"><img src="https://img.shields.io/badge/LinkedIn-abdulazizwb-7aa2f7?style=flat-square&labelColor=1a1b27&logo=linkedin&logoColor=c0caf5"/></a>
+  <a href="https://t.me/abdulaziz_wb"><img src="https://img.shields.io/badge/Telegram-@abdulaziz__wb-7aa2f7?style=flat-square&labelColor=1a1b27&logo=telegram&logoColor=c0caf5"/></a>
+  <a href="https://twitter.com/abdulazizwb"><img src="https://img.shields.io/badge/X-@abdulazizwb-7aa2f7?style=flat-square&labelColor=1a1b27&logo=x&logoColor=c0caf5"/></a>
+  <a href="mailto:contact@abdulazizwb.uz"><img src="https://img.shields.io/badge/Email-contact@abdulazizwb.uz-7aa2f7?style=flat-square&labelColor=1a1b27&logo=gmail&logoColor=c0caf5"/></a>
+</p>
 
-```typescript
-const me = {
-  location: "Fergana, Uzbekistan 🇺🇿",
-  role: "Software Engineer",
-  currentFocus: "Building scalable web apps",
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ClouDGmUz&style=flat-square&color=7aa2f7&label=profile+views" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/ClouDGmUz?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Followers"/>
+</p>
+
+<br/>
+
+<!-- ───────────────────────── ABOUT ───────────────────────── -->
+<h2>About</h2>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm a **software engineer from Fergana, Uzbekistan** who builds scalable web apps end to end — from database schema to the last pixel of the UI.
+
+Right now I'm building a **CRM system**, and spending my evenings with **Rust** and **distributed systems**. I like Linux, open source, and tools that get out of the way.
+
+> I debug with `console.log` and I'm not ashamed. Also, yes — I can exit vim. `:wq`
+
+</td>
+<td width="42%" valign="top">
+
+```ts
+const abdulaziz = {
+  based:    "Fergana, UZ",
+  role:     "Software Engineer",
+  building: "CRM system",
   learning: ["Rust", "System Design", "AI/ML"],
-  askMeAbout: ["web dev", "linux", "open source"],
-  funFact: "I debug with console and I'm not ashamed 😎",
+  askMe:    ["JavaScript", "Python", "DevOps", "Linux"],
 };
 ```
 
-- 🔭 Currently working on **CRM SYSTEM**
-- 🌱 Learning **Rust & distributed systems**
-- 💬 Ask me about **JavaScript, Python, DevOps**
-- 📫 Reach me at **contact@abdulazizwb.uz**
-- ⚡ Fun fact: **I can exit vim** `:wq`
+</td>
+</tr>
+</table>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ Tech Stack
+<br/>
 
-<div align="center">
+<!-- ───────────────────────── STACK ───────────────────────── -->
+<h2>Tech Stack</h2>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<table>
+  <tr>
+    <td width="150"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python,go,rust&theme=dark" height="40" alt="JavaScript, TypeScript, Python, Go, Rust"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" height="40" alt="React, Next.js, Vue, Tailwind"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend & Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,redis&theme=dark" height="40" alt="Node.js, PostgreSQL, MongoDB, Redis"/></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux&theme=dark" height="40" alt="Docker, Kubernetes, AWS, Git, Linux"/></td>
+  </tr>
+</table>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+<br/>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<!-- ───────────────────────── STATS ───────────────────────── -->
+<h2>GitHub Activity</h2>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClouDGmUz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClouDGmUz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6" height="170" alt="Top languages"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ClouDGmUz&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub streak"/>
+</p>
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClouDGmUz&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" width="100%" alt="Contribution graph"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClouDGmUz&theme=tokyonight&hide_border=true" alt="Streak stats"/>
-</div>
+<!-- ───────────────────────── FOOTER ───────────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=110&section=footer" width="100%" alt=""/>
+</p>
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazizwb)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abdulazizwb)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulaziz_wb)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shermuhammadovabdulaziz1@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulazizwb.uz)
-
-</div>
-
-<!-- ═══════════════ EXTRAS ═══════════════ -->
-<details>
-<summary>⚡ More stuff (click to expand)</summary>
-
-### 🎵 Currently vibing to
-<!-- Spotify integration: https://github.com/kittinan/spotify-github-profile -->
-<!-- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" /> -->
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Auto-updated via GitHub Actions: gautamkrishnar/blog-post-workflow -->
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<!-- ═══════════════ FOOTER ═══════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-  **💜 Thanks for visiting! Drop a ⭐ if you like my work.**
-</div>
+<p align="center"><sub>Thanks for stopping by — if something here helps you, a ⭐ on the repo is always appreciated.</sub></p>
